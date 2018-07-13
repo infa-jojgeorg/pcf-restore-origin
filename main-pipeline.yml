@@ -4,7 +4,7 @@ resources:
   type: git
   source:
     branch: master
-    uri: https://github.com/kirananil007/pcf-restore-origin.git
+    uri: https://github.com/jojinjg/pcf-restore-origin.git
 - name: om-install
   type: s3
   source:
